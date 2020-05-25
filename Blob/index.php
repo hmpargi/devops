@@ -1,6 +1,6 @@
 <html>
 <meta charset="utf-8"/>
-<title>Change Backgrounds Website</title>
+<title>Devops Change Backgrounds</title>
 <link rel="stylesheet" type="text/css" href="css/style9.css" />
     <link rel="stylesheet" href="https://bootswatch.com/3/cerulean/bootstrap.min.css">
 <head>
